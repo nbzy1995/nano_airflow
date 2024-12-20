@@ -43,27 +43,3 @@ Run tests with pytest:
 ```bash
 pytest tests/
 ```
-
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-```yaml
-
----
-
-#### 2. **`.gitignore`**
-```gitignore
-# Byte-compiled files
-__pycache__/
-*.pyc
-
-# Virtual environment
-.env/
-venv/
-
-# Test and output files
-*.log
-*.err
-*.out
-results/
